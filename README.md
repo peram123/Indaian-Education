@@ -1,2 +1,2 @@
-# Indaian-Education
+# Indian-Education
 Education development in India over the years 
